@@ -1,0 +1,17 @@
+section {
+    height: 60%;
+}
+
+article {
+    display: flex;
+}
+
+section article div {
+    width: 25vw;
+    height: 25vh;
+}
+
+section article div image {
+    width: 100%;
+    height: 100%;
+}

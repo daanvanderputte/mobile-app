@@ -27,6 +27,7 @@ nav {
 header nav ul {
     display: flex;
     justify-content: space-between;
+    width: 50vw;
 }
 
 header nav ul li {
