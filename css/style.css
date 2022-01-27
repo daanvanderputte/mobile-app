@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 
 @import url(./var.css);
+@import url(./menu.css);
+
 
 body {
     width: 100vw;
@@ -8,4 +10,3 @@ body {
     background-image: url(../images/bg_001.jpg);
     font-family: 'Open Sans', sans-serif;
 }
-
