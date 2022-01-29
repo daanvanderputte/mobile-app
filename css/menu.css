@@ -2,13 +2,13 @@ header {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 7vh;
+    height: 15vh;
     width: 70vw;
 }
 
 header div {
-    height: 7vh;
-    width: 17vh;
+    height: 10vh;
+    width: 25vh;
 }
 
 header div img {
