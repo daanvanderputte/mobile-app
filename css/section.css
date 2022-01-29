@@ -18,6 +18,11 @@ h2 {
     font-size: 35px;
 }
 
+p {
+    font-size: 10px;
+    padding-bottom: 5vh ;
+}
+
 .left {
     display: flex;
     flex-direction: column;
@@ -39,11 +44,14 @@ h2 {
     height: 140%;
     width: 40%;
     border-radius: 5px;
+    text-align: center;
+    padding-top: 2vh;
 }
 
 #green {
     background-color: var(--button-green);
     color: var(--main-text-white);
+    text-decoration: ;
 }
 
 #blue {
