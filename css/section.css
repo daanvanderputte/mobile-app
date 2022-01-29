@@ -12,7 +12,50 @@ section article {
     border: solid black 2px;
     height: 60vh;
     width: 35vw;
+}
 
+h1 {
+    font-size: 35px;
+}
+
+.left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5vh;
+    margin-right: 5vh;
+    margin-bottom: 5vh;
+}
+
+.left div {
+    display: flex;
+    align-items: flex-start;
+}
+
+.left div a {
+    text-decoration: none;
+    border: black solid 2px;
+}
+
+#green {
+    background-color: var(--button-green);
+}
+
+#blue {
+    background-color: var(--button-blue);
+}
+
+.right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+    width: 35vw;
+}
+
+.right div img {
+    height: 55vh;
+    width: 15vw;
 }
 
 

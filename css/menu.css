@@ -7,8 +7,8 @@ header {
 }
 
 header div {
-    height: 6vh;
-    width: 15vh;
+    height: 7vh;
+    width: 17vh;
 }
 
 header div img {
@@ -17,6 +17,8 @@ header div img {
 }
 
 header nav {
+    display: flex;
+    justify-content: flex-end;
     flex-grow: 2;
 }
 
