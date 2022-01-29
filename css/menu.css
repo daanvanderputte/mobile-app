@@ -38,6 +38,6 @@ header nav ul li {
 }
 
 header nav ul li a {
-    /* color: white; */
+    color: var(--main-text-white);
     text-decoration: none;
 }
