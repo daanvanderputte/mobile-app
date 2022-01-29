@@ -1,0 +1,18 @@
+section {
+    border: solid black 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15vh;
+    height: 60vh;
+    width: 70vw;
+}
+
+section article {
+    border: solid black 2px;
+    height: 60vh;
+    width: 35vw;
+
+}
+
+

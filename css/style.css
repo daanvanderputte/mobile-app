@@ -3,6 +3,7 @@
 @import url(./var.css);
 @import url(./menu.css);
 @import url(./main.css);
+@import url(./section.css);
 
 *{
     box-sizing: border-box;
