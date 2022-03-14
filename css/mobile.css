@@ -1,0 +1,33 @@
+@media only screen and (max-width: 600px) {
+    body {
+        background-size: 250%;
+    }
+    /* Menu bar */
+    header {
+        display: flex;
+        flex-direction: column;
+        margin-top: 2vh;
+    }
+    header nav ul {
+        width: 80vw;
+    }
+    /* Text section */
+    h1 {
+        font-size: 18px;
+    }
+    p {
+        font-size: 10px;
+    }
+    /* Buttons */
+    main section:nth-child(1) div {
+        margin-top: 4vh;
+    }
+    main section:nth-child(1) div a {
+        padding: 4px;
+        font-size: small;
+    }
+    /* Phones */
+    img {
+        width: 150%;
+    }
+}

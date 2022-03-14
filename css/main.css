@@ -27,7 +27,7 @@ main section:nth-child(1) div {
     margin-top: 7vh;
 }
 
-a {
+main section:nth-child(1) div a {
     border-radius: 5px;
     padding: 12px 50px 12px 50px;
     font-weight: 900;
